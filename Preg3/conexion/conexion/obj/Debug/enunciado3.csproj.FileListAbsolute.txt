@@ -1,0 +1,25 @@
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\bin\Debug\mysql.data.dll
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\enunciado3.csproj.GenerateResource.Cache
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\Carlitos JS\Desktop\PREGUNTA 3 - prueba4\conexion\conexion\obj\Debug\enunciado3.csprojResolveAssemblyReference.cache
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\Carlitos JS\Desktop\2do parcial\enunciado 3\conexion\conexion\obj\Debug\conexion.pdb
+D:\324\Examenes\INF-324_PARCIAL2-main\INF-324_PARCIAL2-main\enunciado 3\conexion\conexion\bin\Debug\conexion.exe.config
+D:\324\Examenes\INF-324_PARCIAL2-main\INF-324_PARCIAL2-main\enunciado 3\conexion\conexion\obj\Debug\conexion.exe
+D:\324\Examenes\INF-324_PARCIAL2-main\INF-324_PARCIAL2-main\enunciado 3\conexion\conexion\obj\Debug\conexion.pdb
+D:\324\Examenes\INF-324_PARCIAL2-main\INF-324_PARCIAL2-main\enunciado 3\conexion\conexion\obj\Debug\enunciado3.csprojResolveAssemblyReference.cache
+D:\324\Examenes\INF-324_PARCIAL2-main\INF-324_PARCIAL2-main\enunciado 3\conexion\conexion\obj\Debug\conexion.Form1.resources
+D:\324\Examenes\INF-324_PARCIAL2-main\INF-324_PARCIAL2-main\enunciado 3\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+D:\324\Examenes\INF-324_PARCIAL2-main\INF-324_PARCIAL2-main\enunciado 3\conexion\conexion\obj\Debug\enunciado3.csproj.GenerateResource.Cache
+D:\324\Examenes\INF-324_PARCIAL2-main\INF-324_PARCIAL2-main\enunciado 3\conexion\conexion\bin\Debug\conexion.exe
+D:\324\Examenes\INF-324_PARCIAL2-main\INF-324_PARCIAL2-main\enunciado 3\conexion\conexion\bin\Debug\conexion.pdb
+D:\324\Examenes\2doParcial\Preg3\conexion\conexion\bin\Debug\conexion.exe.config
+D:\324\Examenes\2doParcial\Preg3\conexion\conexion\obj\Debug\conexion.exe
+D:\324\Examenes\2doParcial\Preg3\conexion\conexion\obj\Debug\conexion.pdb
